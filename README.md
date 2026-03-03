@@ -1,5 +1,8 @@
 # gstest - Source Engine Game Server Tester
 
+[![Release](https://img.shields.io/github/v/release/netwarlan/gameserver-testing)](https://github.com/netwarlan/gameserver-testing/releases)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/QtqKW9xvzK)
+
 A CLI tool for testing Source engine game servers using the A2S protocol. Designed for use in CI/CD pipelines, container health checks, and manual server validation.
 
 ## Features
