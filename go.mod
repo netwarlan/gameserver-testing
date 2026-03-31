@@ -3,7 +3,7 @@ module gameserver-testing
 go 1.25
 
 require (
-	github.com/rumblefrog/go-a2s v1.0.2
+	github.com/rumblefrog/go-a2s v1.0.3
 	github.com/spf13/cobra v1.10.2
 )
 
