@@ -5,8 +5,8 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/rumblefrog/go-a2s v1.0.2 h1:rT/QP/B+h2R9/3PEfmOkWPdHnEKExskOMPTTkeX+vuA=
-github.com/rumblefrog/go-a2s v1.0.2/go.mod h1:6nq//LMUMa3ElowQ7eH8atnDbQG+nVMFsaMFzSo8p/M=
+github.com/rumblefrog/go-a2s v1.0.3 h1:Y1r8oX5IOL8b3KHhN9RCY+2bdmpio52Acd1KsYg4efI=
+github.com/rumblefrog/go-a2s v1.0.3/go.mod h1:6nq//LMUMa3ElowQ7eH8atnDbQG+nVMFsaMFzSo8p/M=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/spf13/cobra v1.10.2 h1:DMTTonx5m65Ic0GOoRY2c16WCbHxOOw6xxezuLaBpcU=
 github.com/spf13/cobra v1.10.2/go.mod h1:7C1pvHqHw5A4vrJfjNwvOdzYu0Gml16OCs2GRiTUUS4=
